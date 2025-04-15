@@ -1,0 +1,103 @@
+(footprint "Switch 4 pin"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "c119cae5-483c-45e6-b851-fca0ce4f5184")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Switch 4 pin"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "463f3dcf-b2a1-4ec0-8288-0bbb775d8db7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "07adeb53-c5cf-416f-ab72-c21a95d1a138")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f9bf1800-b298-4a6e-8744-3d35954af652")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -6 -5.5)
+		(end 6 6.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "37dec4a3-3e43-4b1e-80c1-95ba6ff33adc")
+	)
+	(pad "1" thru_hole circle
+		(at -6.303728 -2.143258)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "7639bc36-04a7-439a-9a52-5851903cba49")
+	)
+	(pad "1" thru_hole circle
+		(at 6.272003 -2.094258)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "5cbc0bfb-cfa2-4d66-a613-7b04ee3c5c75")
+	)
+	(pad "GND" thru_hole circle
+		(at -6.229304 2.828322)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1a448839-733f-4340-9f30-336a007e7db3")
+	)
+	(pad "GND" thru_hole circle
+		(at 6.270162 2.789873)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "85c7c755-c38f-464e-94f6-5281bf6de052")
+	)
+	(embedded_fonts no)
+)
