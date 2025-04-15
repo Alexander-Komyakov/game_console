@@ -23,3 +23,8 @@
  - Переключатель питания https://www.ozon.ru/product/vyklyuchatel-dvizhkovyy-polzunkovyy-pereklyuchatel-10-sht-1323063165/?from=share_android&perehod=smm_share_button_productpage_link
 ![Кнопки питания](../switch.png)
 ![Кнопки питани схема](../switch2.png)
+
+
+
+![Плата снизу](../plate.jpg)
+![Плата сверху](../plateup.jpg)
