@@ -28,3 +28,17 @@
 
 ![Плата снизу](../plate.jpg)
 ![Плата сверху](../plateup.jpg)
+
+
+`Версия pcb2gcode`
+
+```
+pcb2gcode --version
+2.5.0
+Git commit:
+Boost: 107400
+Gerbv: 2.10.0
+Geos: Not installed
+```
+
+Конфиг лежит в config.ini
